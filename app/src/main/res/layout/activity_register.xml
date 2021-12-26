@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.RegisterActivity"
+    android:background="@drawable/bg_register">
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:fontFamily="@font/pacifico_regular"
+        android:text="Đăng ký"
+        android:textAlignment="center"
+        android:textColor="#8E4646"
+        android:textSize="42dp"></TextView>
+
+    <EditText
+        android:id="@+id/edt_name"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edt_drawable"
+        android:fontFamily="@font/lato_regular"
+        android:hint="Nhập họ và tên"
+        android:paddingStart="30dp"
+        android:textSize="20sp"></EditText>
+
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/edt_name"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edt_drawable"
+        android:fontFamily="@font/lato_regular"
+        android:hint="Nhập email"
+        android:paddingStart="30dp"
+        android:inputType="textEmailAddress"
+        android:textSize="20sp"></EditText>
+    <EditText
+        android:id="@+id/edt_pass"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/edt_email"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edt_drawable"
+        android:fontFamily="@font/lato_regular"
+        android:hint="Nhập mật khẩu"
+        android:inputType="textPassword"
+        android:paddingStart="30dp"
+        android:textSize="20sp"></EditText>
+
+    <EditText
+        android:id="@+id/edt_repass"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/edt_pass"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:inputType="textPassword"
+        android:background="@drawable/edt_drawable"
+        android:fontFamily="@font/lato_regular"
+        android:hint="Nhập lại mật khẩu"
+        android:paddingStart="30dp"
+        android:textSize="20sp"></EditText>
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/edt_repass"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/btn_login_drawable"
+        android:fontFamily="@font/lato_bold"
+        android:text="Đăng ký"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="22sp"></Button>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_register"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txt_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/lato_regular"
+            android:text="Bạn đã có tài khoản?"
+            android:textAlignment="center"
+            android:textColor="#746464"
+            android:textSize="18sp"></TextView>
+
+        <TextView
+            android:id="@+id/txt_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/txt_question"
+            android:fontFamily="@font/lato_regular"
+            android:text="Đăng nhập ngay!"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp"></TextView>
+    </RelativeLayout>
+</RelativeLayout>

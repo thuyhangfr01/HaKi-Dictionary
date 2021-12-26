@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:orientation="vertical"
+    android:layout_marginTop="5dp">
+    <RelativeLayout
+        android:id="@+id/left"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="2dp"
+            android:src="@drawable/anh1"></ImageView>
+
+        <TextView
+            android:id="@+id/text_view_collapsed_1"
+            style="@style/TextAppearance.Compat.Notification.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@id/icon"
+            android:fontFamily="@font/roboto_bold"
+            android:maxLines="1"
+            android:text="HaKi chào bạn!"
+            android:textColor="#670000"
+            android:textSize="16sp"></TextView>
+
+        <TextView
+            android:id="@+id/text_view_collapsed_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/icon"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/lato_regular"
+            android:lineHeight="20dp"
+            android:justificationMode="inter_word"
+            android:maxLines="2"
+            android:text="Nhanh tay vào HaKI Dictionary tra cứu thôi bạn gì đó ơi, bạn đang làm gì đó"
+            android:textColor="#515151"
+            android:textSize="14sp"></TextView>
+    </RelativeLayout>
+</LinearLayout>

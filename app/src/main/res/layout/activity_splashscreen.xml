@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.SplashScreenActivity"
+    android:background="@drawable/bg"
+    android:id="@+id/next">
+
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:fontFamily="@font/pacifico_regular"
+        android:gravity="center"
+        android:text="HaKi Dictionary"
+        android:textColor="#8E4646"
+        android:textSize="42sp"></TextView>
+
+    <TextView
+        android:id="@+id/header_des"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header_title"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/lato_regular"
+        android:lineHeight="21dp"
+        android:text="@string/des_text"
+        android:textAlignment="center"
+        android:textColor="#390505"
+        android:textSize="16sp"></TextView>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:src="@drawable/bg1"></ImageView>
+</RelativeLayout>

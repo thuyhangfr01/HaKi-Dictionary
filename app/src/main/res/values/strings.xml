@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HaKi Dictionary</string>
+    <string name="des_text">Hơn 400.000 từ Anh - Việt, 150.000 từ Việt - Anh\nChuẩn - Tiện lợi - Thông dụng</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">HaKi app</string>
+    <string name="channel_description">This is HaKi app</string>
+
+    <!-- List Notification !-->
+    <!-- List Image !-->
+    <string-array name="listImage">
+        <item>https://i.ibb.co/c34jSWB/anh5.png</item>
+        <item>https://i.ibb.co/rdRZFtC/anh6.png</item>
+        <item>https://i.ibb.co/gtnRLq5/anh7.png</item>
+        <item>https://i.ibb.co/9tZcpD0/anh8.png</item>
+        <item>https://i.ibb.co/k6yL0Dj/anh9.png</item>
+        <item>https://i.ibb.co/k5n4HNx/anh10.png</item>
+        <item>https://i.ibb.co/yNL5HFS/anh11.png</item>
+        <item>https://i.ibb.co/hB31Y72/anh12.png</item>
+        <item>https://i.ibb.co/yNL5HFS/anh13.png</item>
+        <item>https://i.ibb.co/hB31Y72/anh14.png</item>
+    </string-array>
+    <!-- List Content !-->
+    <string-array name="listContent">
+        <item>Haki cung cấp kho từ vựng rộng rãi và đầy đủ nhất hiện nay!</item>
+        <item>Cùng khám phá những chức năng mới mẻ của HaKi Dictionary!</item>
+        <item>Hơn 100,000 từ vựng Anh - Việt và Việt - Anh để bạn tra cứu</item>
+        <item>Mỗi ngày một bài test để nhớ lại những từ vựng bạn đã tra!</item>
+        <item>HaKi rất vui vì có thể đồng hành cùng bạn mỗi ngày trong việc học tiếng anh!</item>
+        <item>HaKi HaKi, bạn đã ghé HaKi lại chưa? Bạn có muốn vào app không?</item>
+        <item>HaKi chúng mình có lưu lại những từ bạn đã lưu, xem ngay nào!</item>
+    </string-array>
+    <!-- List Title !-->
+    <string-array name="listTitle">
+        <item>HaKi chào bạn!</item>
+        <item>Bạn có cần HaKi giúp không?</item>
+        <item>HaKi đến đây!</item>
+        <item>HaKi sẽ đồng hành cùng bạn!</item>
+        <item>Vào khám phá HaKi bạn ơi!</item>
+        <item>HaKi Dictionary - Siêu từ điển</item>
+        <item>Cùng HaKi cải thiện tiếng Anh</item>
+        <item>HaKi - Bạn của mọi nhà</item>
+    </string-array>
+</resources>

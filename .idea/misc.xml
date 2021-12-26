@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/bg1_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/bg_card_drawale.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/bg_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/border_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/btn1_drawable.xml" value="0.2534246575342466" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/btn_login_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/card_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/circle_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/edt_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/edt_search_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/header_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/ic_delete.xml" value="0.2534246575342466" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/ic_setting.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/ic_voice.xml" value="0.2534246575342466" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/drawable/shadow_bottom_drawable.xml" value="0.2569444444444444" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_history.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_login.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_search_by_voice.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_search_veactivity.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_splashscreen.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_word_detail_veactivity.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/activity_your_word.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_favourite.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_history.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_history_e_v.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_history_v_e.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_home.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_notification.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_your_word_e_v.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/fragment_your_word_v_e.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/item_list.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/item_list_history.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/item_notification.xml" value="0.24259259259259258" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/item_search_av.xml" value="0.22" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/item_your_word.xml" value="0.22" />
+        <entry key="..\:/121LTDD02/HaKIDictionary/app/src/main/res/layout/notification_layout.xml" value="0.24259259259259258" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
